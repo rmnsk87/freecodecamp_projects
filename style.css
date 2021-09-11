@@ -19,6 +19,7 @@ h1{
     font-weight: bold;
     -moz-border-radius: 5px;
     border-radius: 5px;
+    text-align:center;
 }
 
 h2{
