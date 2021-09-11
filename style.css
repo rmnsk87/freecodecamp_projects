@@ -1,5 +1,5 @@
 body{
-    background-color: #ddd;
+    background-color: #eeeeee;
     color: #036;
     padding: 0 1em 0 0;
     margin: 0;
@@ -26,8 +26,7 @@ h2{
   padding: 0.1em;
   padding-left: 0.3em;
   margin: 0;
-  border: 1px solid #405871;
-  background-color: #557697;
+  border: 1px solid #405871;  
   color: #557697;
   text-decoration: none;
   font-size: 14px;
